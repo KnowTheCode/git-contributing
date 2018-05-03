@@ -1,21 +1,21 @@
 <?php
 /**
- * Launches the Git Contributing plugin.
+ * Launches the Git Contributing plugin for you to enjoy while learning about Git.
  *
  * @package     KnowTheCode\GitContributing
  * @author      hellofromTonya
- * @license     GPL-2.0+
+ * @license     GPL-3.0+
  *
  * @wordpress-plugin
  * Plugin Name: Git Contributing
  * Plugin URI:  https://github.com/KnowTheCode/git-contributing
- * Description: Git Contributing - an awesome collaborative project to teach you the contributor workflow.
+ * Description: An awesome collaborative project to teach you the contributor workflow for the Git Contributing hands-on coding lab.
  * Version:     1.0.0
  * Author:      Git Contributing Team
  * Author URI:  https://KnowTheCode.io
  * Text Domain: git-contributing
- * License:     GPL-2.0+
- * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+ * License:     GPL-3.0+
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.txt
  */
 
 namespace KnowTheCode\GitContributing;
