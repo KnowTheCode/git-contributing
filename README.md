@@ -4,4 +4,4 @@
 
 This repository is for the [Git Contributing](https://knowthecode.io/labs/git-contributing) hands-on coding lab.
 
-I'm testing the merge strategy.
+I'm working on this file and making changes.
