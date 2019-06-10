@@ -631,7 +631,7 @@ in reasonable ways as different from the original version;
 licensors or authors of the material;
 
   c) You are declined any grant of rights under trademark law for use of 
-the trade names, trademarks, or service marks of YOAST B.V.;
+the trade names, trademarks, or service marks of YOU;
 
   d) You are required to indemnify licensors and authors of that material 
 by anyone who conveys the material (or modified versions of it) with 
