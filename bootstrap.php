@@ -1,6 +1,6 @@
 <?php
 /**
- * Launches the Git Contributing plugin.
+ * Launches the Git Contributing plugin for you to enjoy while learning about git.
  *
  * @package     KnowTheCode\GitContributing
  * @author      hellofromTonya
@@ -14,8 +14,8 @@
  * Author:      Git Contributing Team
  * Author URI:  https://KnowTheCode.io
  * Text Domain: git-contributing
- * License:     GPL-2.0+
- * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+ * License:     GNU-3.0+
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.txt
  */
 
 namespace KnowTheCode\GitContributing;
